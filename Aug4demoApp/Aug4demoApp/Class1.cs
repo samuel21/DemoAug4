@@ -11,6 +11,6 @@ namespace Aug4demoApp
 
         // new file
         //v1.1 changes
-        // new v1.1 merge
+        // new v1.1 merge some more changes
     }
 }
