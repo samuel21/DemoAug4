@@ -12,7 +12,7 @@ namespace Aug4demoApp
         // new file
         //v1.1 changes
         // new v1.1 merge some more changes
-        // 1.2 changes
+        // 1.2 changes some more
         //some master changes
     }
 }
