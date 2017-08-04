@@ -9,5 +9,7 @@ namespace Aug4demoApp
     class Class2
     {
         // file added in master branch
+
+        // new v1.1 change
     }
 }
