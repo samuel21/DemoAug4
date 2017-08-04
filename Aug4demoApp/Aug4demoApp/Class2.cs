@@ -11,5 +11,6 @@ namespace Aug4demoApp
         // file added in master branch
 
         // new v1.1 change
+        //1.2 changes
     }
 }
